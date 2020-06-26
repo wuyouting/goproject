@@ -15,4 +15,5 @@ func getInput() {
 func main() {
 	getInput()
 	time.Sleep(100 * time.Second)
+
 }
